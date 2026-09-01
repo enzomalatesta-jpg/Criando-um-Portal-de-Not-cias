@@ -1,0 +1,21 @@
+h1 {
+  color: blue;
+  font-size: 36px;
+  text-align: center;
+
+  p {
+    text-align: center;
+}}
+h2 {
+  font-size: 23px;
+}
+h3 {
+  font-size: 23px;
+}
+h4 {
+  font-size: 23px;
+}
+footer {
+  color: blue;
+  font-size: 20px;
+}
