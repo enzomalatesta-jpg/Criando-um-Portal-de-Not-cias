@@ -1,11 +1,11 @@
-h1 {
+header h1 {
   color: blue;
   font-size: 36px;
   text-align: center;
-
-  p {
+}
+header p{
     text-align: center;
-}}
+}
 h2 {
   font-size: 23px;
 }
@@ -17,5 +17,6 @@ h4 {
 }
 footer {
   color: blue;
-  font-size: 20px;
+  font-size: 30px;
+  text-align: center;
 }
