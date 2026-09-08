@@ -20,3 +20,22 @@ footer {
   font-size: 30px;
   text-align: center;
 }
+footer {
+  p{
+    font-size: medium;
+    text-align: center;
+    color:black
+  }
+}
+
+#tecnologia{
+  color: blue;
+  font-size: 34px
+}
+#games{
+  color: blue;
+   font-size: 34px
+}
+#jogos{
+  color: rgb(206, 23, 32);
+}
